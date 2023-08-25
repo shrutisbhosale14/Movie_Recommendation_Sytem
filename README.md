@@ -1,4 +1,4 @@
-# Movie_Recommendation_Sytem
+# Movie Recommendation Sytem
 Recomendation System Project
 
 • Project Name : Movie Recommendation System
